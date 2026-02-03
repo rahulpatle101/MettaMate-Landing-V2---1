@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="dist/readme-hero.png" alt="MettaMate Landing Page Hero" width="1200" />
+  <img src="assets/readme-hero.png" alt="MettaMate Landing Page Hero" width="1200" />
 </div>
 
 # MettaMate Landing V2
