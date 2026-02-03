@@ -2,6 +2,8 @@
   <img src="assets/readme-hero.png" alt="MettaMate Landing Page Hero" width="1200" />
 </div>
 
+# DEMO `https://rahulpatle101.github.io/MettaMate-Landing-V2---1/`
+
 # MettaMate Landing V2
 
 MettaMate is a calm, community-first landing page designed to welcome people into a space where they can connect, grow, and feel supported. This repo contains the V2 landing experience built with Vite + React.
