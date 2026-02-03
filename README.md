@@ -2,7 +2,7 @@
   <img src="assets/readme-hero.png" alt="MettaMate Landing Page Hero" width="1200" />
 </div>
 
-# DEMO [https://rahulpatle101.github.io/MettaMate-Landing-V2---1/]
+# [LIVE DEMO] (https://rahulpatle101.github.io/MettaMate-Landing-V2---1/)
 
 # MettaMate Landing V2
 
